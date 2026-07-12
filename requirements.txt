@@ -1,2 +1,12 @@
-streamlit
-xgboost
+Python 3.x
+Jupyter Notebook / Google Colab
+Pandas & NumPy
+Statsmodels
+Prophet
+XGBoost
+Scikit-learn
+Matplotlib / Seaborn / Plotly
+Streamlit
+Git & GitHub
+
+
